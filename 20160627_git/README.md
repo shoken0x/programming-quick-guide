@@ -31,5 +31,7 @@
 7. ローカルに最新版を落としたい時はpull
  - git pull
 8. ローカルとgithub上の差分をみたい時はdiff
- - git diff README.md   
+ - git diff README.md
+
 ---
+
