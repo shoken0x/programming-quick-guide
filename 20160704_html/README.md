@@ -4,11 +4,11 @@
 
 参考: https://pages.github.com
 
-### 1. User Site: GitHubアカウントのページ
+#### 1. User Site: GitHubアカウントのページ
 
 `{username}.github.io` というリポジトリを作成する。
 
-### 2. Project Site: リポジトリのページ
+#### 2. Project Site: リポジトリのページ
 
 gh-pages というブランチを作成する。
 
