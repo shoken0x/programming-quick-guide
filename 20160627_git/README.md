@@ -1,4 +1,3 @@
-# Git Quick Guide
 ---
 ## 今日やったこと by kumiko
 
@@ -34,4 +33,21 @@
  - git diff README.md
 
 ---
+
+## 今日やったこと
+# Command Line
+- git add　詰める
+- git commit　封する
+- git push　送る
+
+#手順
+- リポジトリの作成
+- クローン
+- ファイルの追加
+- コミットする
+- プッシュする　
+
+# Note
+- GitHub: Gitホスティングサービス＝Gitの機能をwebで見られる
+- リポジトリ: GitHubからローカルにクローンを作る。ローカルに落とす。openのソースコートを落として変更できる。
 
