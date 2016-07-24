@@ -32,7 +32,7 @@ http://www.w3schools.com/js/js_variables.asp
 http://www.w3schools.com/js/js_operators.asp
 http://www.w3schools.com/js/js_arithmetic.asp
 
-## 5. 分岐(if, switch)
+## 5. 分岐 (if, switch)
 
 http://www.w3schools.com/js/js_if_else.asp
 
