@@ -16,8 +16,8 @@ http://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst
 
 http://www.w3schools.com/js/js_whereto.asp
 
-1. The <script> Tag
-2. in <head> or in <body>
+1. The script tag
+2. in head tag or in body tag
 
 ## 3. 何かを表示してみる
 
