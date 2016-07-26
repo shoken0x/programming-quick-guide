@@ -11,3 +11,18 @@
 - 第x回 [APIを触る: Slack, Twitter]()
 - 第x回 [Bot Mac にログインしたらSlackに通知するbot]()
 - 第x回 [どこかをスクレイピング]()
+
+## 参考資料
+
+- [W3Schools Online Web Tutorials](http://www.w3schools.com/)
+- [HTML Tutorial](http://www.w3schools.com/html/default.asp)
+- [CSS Tutorial](http://www.w3schools.com/css/default.asp)
+- [JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+- [mixi-inc/JavaScriptTraining: Training course repository for JavaScript](https://github.com/mixi-inc/JavaScriptTraining)
+- [50行以下、JavaScriptで作れる、3つの数字を揃えるゲーム - コードレシピ](http://coderecipe.jp/recipe/9QYJVjFHSt/)
+- [【JavaScript】200行で作るテトリスのレシピ【HTML5】 - コードレシピ](http://coderecipe.jp/recipe/iHjJBJx9Si/)
+- [50行で作る、HTML5+JavaScriptを使った簡単ライフゲームづくり - コードレシピ](http://coderecipe.jp/recipe/UBsk3rPZSX/)
+- [【JavaScript】200行で作るテトリスのレシピ【HTML5】 - コードレシピ](http://coderecipe.jp/recipe/iHjJBJx9Si/)
+- [サービスがいいMacBookにしておく - ザリガニが見ていた...。](http://d.hatena.ne.jp/zariganitosh/20091116/1258333342)
+- [SwiftとXcode6でカウンターアプリを作るレシピ - コードレシピ](http://coderecipe.jp/recipe/4as5Ari4QI/)
+
