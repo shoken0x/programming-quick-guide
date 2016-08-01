@@ -47,6 +47,7 @@ fi
 ### 標準入力を読み込む
 
 ```bash
+echo "何か入力してください"
 read input
 sleep 1
 echo $input
