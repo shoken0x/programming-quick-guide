@@ -6,3 +6,6 @@ good-bye
 how are you?
 
 かいうえこ
+
+わああああい
+
